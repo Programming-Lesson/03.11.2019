@@ -10,3 +10,9 @@ Alqoritm :
 Yarpag dolmasi bisireceksiniz.. Minimum 400 ehtimal isdeyirem. Ps: Eyni ehtimali bir daha sina ile 2-3 defe yazsaz alqoritmi qebul etmeyecem
 
 Emin sen son yarisda qalib geldiyin ucun minimum 300 ehtimal yaza bilersen :)
+
+Deadline : 
+
+Arzu-06.11.2019
+Emin-07.11.2019
+
