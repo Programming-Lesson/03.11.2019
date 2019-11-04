@@ -14,5 +14,6 @@ Emin sen son yarisda qalib geldiyin ucun minimum 300 ehtimal yaza bilersen :)
 Deadline : 
 
 Arzu-06.11.2019
+
 Emin-07.11.2019
 
